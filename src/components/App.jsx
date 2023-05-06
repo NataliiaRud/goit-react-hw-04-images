@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { Searchbar } from "./Searchbar/Searchbar";
-import { ImageGallery, resetSearch } from "./ImageGallery/ImageGallery";
+import { ImageGallery } from "./ImageGallery/ImageGallery";
 import { AppContainer } from "./App.styled";
 
 export const App =()=> {
